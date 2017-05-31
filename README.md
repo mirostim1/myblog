@@ -1,2 +1,2 @@
 # README.md 
-Example blog app called MyBlog made in Laravel framework.
+Example blog app called MyBlog made with Laravel framework.
